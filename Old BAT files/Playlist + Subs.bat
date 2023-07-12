@@ -1,0 +1,2 @@
+echo cd C:\Users\Alex\Downloads\Apps\Youtubedlp\
+yt-dlp.exe --merge-output-format mp4 --format bestvideo[ext=mp4]+bestaudio[ext=m4a] --write-sub --sub-lang en https://www.youtube.com/playlist?list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_ -P "P:\Media\Videos\Internet Archives\Double Fine"

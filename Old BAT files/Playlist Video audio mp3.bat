@@ -1,0 +1,2 @@
+echo cd C:\Users\Alex\Downloads\Apps\Youtubedlp\
+yt-dlp.exe -x --audio-format mp3  https://www.youtube.com/playlist?list=PLwCQB3UQeWqAd1vC9wGXxDjNuM9-g2_wI -P "C:\Users\Alex\Downloads\Apps\YoutubeDLP\Downloads\JPMusic"

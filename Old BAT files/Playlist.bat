@@ -1,0 +1,2 @@
+echo cd C:\Users\Alex\Downloads\Apps\Youtubedlp\
+yt-dlp.exe --merge-output-format mp4 --format bestvideo[ext=mp4]+bestaudio[ext=m4a] --write-sub --sub-lang en https://www.youtube.com/watch?v=Fk1t1liF19w -P "C:\Users\Alex\Downloads\Apps\YoutubeDLP\Downloads\WeeklyTubeShow" cmd /k
