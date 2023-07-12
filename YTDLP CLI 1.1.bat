@@ -1,5 +1,5 @@
 ::this whole thing is hot garbage, Im only adding it to git for posterity, originally written 2023-04-09 then modified into this monstrosity
-::needs generalizing to work on other computers, everything here is specific to my mahchine
+::probably needs generalizing to work on other computers, everything here was specific to my mahchine
 @ECHO OFF
 :Header
 ::the line below changes directory to wherever the batch file is located. make sure its in the same folder as ytdlp
