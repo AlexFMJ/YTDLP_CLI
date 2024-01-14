@@ -3,8 +3,9 @@ Does what it says on the tin. As of the current (2023-12-30) version of YTDLP, i
 Just answer Y/N or 1/2/3 to a couple things and it'll do the rest.
 
 # installation:
-1) download the main .bat and place it into the same folder as the YTDLP .exe file
-2) open the bat file
+1) download the main .bat and DefaultLocation.txt files and place them into the same folder as the YTDLP .exe file
+2) open DefaultLocation.txt and change the directory to whatever folder you want to save videos to (by default it's the user's video folder)
+3) open the bat file
 
 
 
