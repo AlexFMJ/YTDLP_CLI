@@ -1,1 +1,1 @@
-C:\Path\to\save\location
+%userprofile%\videos
