@@ -1,5 +1,5 @@
 # YTDLP_CLI
-Does what it says on the tin. As of the current (2023-07-12) version of YTDLP, it makes the basic command line changes so you don't have to.
+Does what it says on the tin. As of the current (2023-12-30) version of YTDLP, it makes the basic command line changes so you don't have to.
 Just answer Y/N or 1/2/3 to a couple things and it'll do the rest.
 
 # installation:
